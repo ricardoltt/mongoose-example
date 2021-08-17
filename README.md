@@ -1,5 +1,4 @@
 ![](https://webassets.mongodb.com/_com_assets/cms/mongodb_logo1-76twgcu2dm.png)
-# Mongoose
 
 Projeto realizado para aprender e praticar a utilização do Express fazendo a conexão com o MongoDB utilizando o Mongoose.
 
