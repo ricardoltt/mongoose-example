@@ -17,7 +17,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## Installation
 
-Use the package manager [npm](https://www.npmjs.com/) to install foobar.
+Use the package manager [npm](https://www.npmjs.com/) to install the dependencies to the project.
 
 ```sh
 npm install
@@ -27,7 +27,7 @@ npm install
  
 Após clonar o projeto e rodar o comando acima, é só rodar o comando "npm dev" ou "npm start" e fazer as requisições para a url http://localhost:3000/users
 
-O projeto exige uma conexão com o banco de dados utilizando um .env na raíz do projeto.
+O projeto exige uma conexão com o banco de dados colocando valor em uma variável DB_URL utilizando um .env na raíz do projeto.
 
 ```sh
 npm run
